@@ -1,0 +1,10 @@
+1/4Do 
+2/4Re
+3/4Mi
+4/4Fa
+2/4Sol
+3/4La
+1/4Si
+4/4Do_Major
+
+
